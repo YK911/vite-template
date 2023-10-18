@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/starter-kit/",
+    "build": "vite build --base=/vite-template/",
     "preview": "vite preview"
   },
   "browserslist": [
